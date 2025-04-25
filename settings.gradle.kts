@@ -1,2 +1,2 @@
-rootProject.name = "FlinkProject"
+rootProject.name = "flink-project"
 
